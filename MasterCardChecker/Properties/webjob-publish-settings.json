@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjob-publish-settings.json",
+  "webJobName": "MCChecker",
+  "startTime": "2017-02-04T09:00:00-03:00",
+  "endTime": "2017-02-05T18:00:00-03:00",
+  "jobRecurrenceFrequency": "Minute",
+  "interval": 15,
+  "runMode": "Scheduled"
+}
